@@ -1,2 +1,6 @@
-# PenguinSlider
-for BANDAI NAMCO Studios
+.cppフォルダを開くとプロジェクトのcppファイルが閲覧できます。
+.hフォルダを開くとプロジェクトのヘッダーファイルを閲覧できます。
+dataフォルダは実行ファイルに必要な素材です。
+Videoファイルは僕が制作したゲームの紹介動画です。
+PenguinSlider(FULL).exeを実行するとフル画面でゲームを実行できます。
+PenguinSlider(Window).exeを実行するとwindow画面でゲームを実行できます。
